@@ -1,0 +1,1 @@
+export { SocialLink as default } from './social-link';

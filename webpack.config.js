@@ -24,6 +24,7 @@ module.exports = {
       { test: /\.html?$/, loader: 'html-loader' },
     ]
   },
+  devtool: 'source-map',
   plugins: [
     htmlWebpackPluginConfig
   ]
